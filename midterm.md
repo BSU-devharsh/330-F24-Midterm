@@ -33,7 +33,7 @@ Describe the ```chmod``` command and how it changes file permissions. Explain th
 
 
 #### Question 5 (60 points)
-Write a ```C``` program in ```read.c``` file that reads a file and counts the number of lines, words, and characters in the file when a user presses ```1``` or simply prints the file if a user presses ```2``` (similar to ```cat``` utility).
+Write a ```C``` program in ```read.c``` file that reads ```sample.txt``` file and counts the number of lines, words, and characters in the file when a user presses ```1``` or simply prints the file if a user presses ```2``` (similar to ```cat``` utility).
 
 ```
 CAT(1)
