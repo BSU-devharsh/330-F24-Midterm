@@ -9,7 +9,7 @@
 
 
 #### Instructions:
-- This exam is worth 100 points.
+- This exam is worth ```100``` points.
 - You must follow the university student guidelines and honor code.
-- Questions are posted in midterm.md file.
-- Submissions must be made on GitHub.
+- Questions are posted in ```midterm.md``` file.
+- Submissions must be made on ```GitHub```.
