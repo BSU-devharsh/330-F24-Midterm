@@ -1,0 +1,4 @@
+This is a sample text file.
+It contains multiple lines of text.
+You can use this file to test your C program's file reading capabilities.
+Enjoy!
