@@ -7,8 +7,8 @@ int main(int argc, char *argv[]) {
     char ch;
     int choice = 0, lines = 0, words = 0, chars = 0;
 
-    // Enter 1 to count lines, words, and characters
-    // Enter 2 to print the file simply
+    // User enters 1 to count lines, words, and characters
+    // User enters 2 to print the file
     scanf("%d", &choice);
     
     file = fopen("sample.txt", "r");
