@@ -11,6 +11,9 @@ int main(int argc, char *argv[]) {
     // Enter 2 to print the file simply
     choice = argv[1];
     
+    file = fopen("sample.txt", "r");
+
+
     // Write your code here
     // ...
 
