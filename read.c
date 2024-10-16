@@ -4,12 +4,12 @@
 
 int main(int argc, char *argv[]) {
     FILE *file;
-    char ch, choice;
-    int lines = 0, words = 0, chars = 0;
+    char ch;
+    int choice = 0, lines = 0, words = 0, chars = 0;
 
     // Enter 1 to count lines, words, and characters
     // Enter 2 to print the file simply
-    choice = argv[1];
+    scanf("%d", &choice);
     
     file = fopen("sample.txt", "r");
 
